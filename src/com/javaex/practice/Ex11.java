@@ -22,20 +22,20 @@ public class Ex11 {
 		
 		if(result>0) {
 			share = num1/num2;
-			System.out.println("몫 : " + share);
 			left = num1%num2;
-			System.out.print("나머지 : " + left);
-		}else if(result<0) {
+		}else
+//			if(result<0) 
+			{
 			share = num2/num1;
-			System.out.println("몫 : " + share);
 			left = num2%num1;
-			System.out.print("나머지 : " + left);
-		}else {
-			share = num2/num1;
-			System.out.println("몫 : " + share);
-			left = num2%num1;
-			System.out.print("나머지 : " + left);
 		}
+//		else {
+//			share = num2/num1;
+//			left = num2%num1;
+//		}
+
+		System.out.println("몫 : " + share);
+		System.out.print("나머지 : " + left);
 	
 		
 		sc.close();

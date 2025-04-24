@@ -3,7 +3,7 @@ package com.javaex.practice;
 public class Ex02 {
 	
 	/*
-	 정답 : 3, 4, 5, 9
+	 정답 : 2, 3, 4, 5, 9
 	 다음중 switch 문에서 조건식에 넣을 수 있는 데이터 타입은?
 		(1)	boolean
 		(2)	char

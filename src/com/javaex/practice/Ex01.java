@@ -9,7 +9,7 @@ public class Ex01 {
 		(3)	switch( 'A' ){….}
 		(4)	switch( 100 ){…}
 		(5)	switch( "A" ){…}
-		(6)	if( name == "홍길동" )
+		(6)	if( name == "홍길동" )   //if( name.equals("홍길동"))
 		*/
 
 }
